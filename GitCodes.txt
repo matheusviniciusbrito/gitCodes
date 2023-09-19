@@ -1,0 +1,30 @@
+
+No bash:
+
+git clone https://github.com/gabriellimao7500/gitCodes.git
+
+Git:
+
+git status : Visualização dos status
+
+git add . 
+
+git commit -a -m "comentario"
+
+git push
+
+git pull
+
+git checkout -b 'branch' criação de branches na maquina local / quando for usado o push em um branche q n existe ele te dara o codigo para criar no servidor
+
+git branch -d 'branche' deleta o branch
+
+git checkout 'branch' : Troca de branches
+
+git branch : Visualização dos branches
+
+git merge *nome do branche : Junta o branche atual com o selecionado
+
+git config --global user.email "matheus.vinicius.mvrb@gmail.com"
+
+git config --global user.name "matheusviniciusbrito"
